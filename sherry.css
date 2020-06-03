@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#main-div {
+    min-height: 100%;
+    background-image: url("bf.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
+}
+
+#search-bar {
+
+}
